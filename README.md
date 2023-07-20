@@ -2,7 +2,7 @@
 
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+CYBER+PANDA+WHATSAPP+BOT;MADE+BY+CYBER+x+SACHIYA)](https://git.io/typing-svg)
+###  ~*[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+CYBER+PANDA+WHATSAPP+BOT;MADE+BY+CYBER+x+SACHIYA)](https://git.io/typing-svg)*~
 
 
 
