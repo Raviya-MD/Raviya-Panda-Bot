@@ -21,7 +21,7 @@
 
   ### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
  
-## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@nipunarangana/Zero-Two-Qr?v=1)
+## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@shashikabot/Queen-Nethu-MD-QR-Code)
 
 
 
@@ -29,4 +29,4 @@
  ### ✡☯🔯  𝗗𝗘𝗣𝗟𝗢𝗬 5 METHOD ✡☯🔯
 
 
-## [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nipuna15/Secktor-Md.git)
+## [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/2005-SACHITH-MAX/CYBER-PANDA-MD-V1.git)
