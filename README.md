@@ -26,7 +26,7 @@
 
 
 
- ### ✡☯🔯  𝗗𝗘𝗣𝗟𝗢𝗬 5 METHOD ✡☯🔯
+ ### ✡☯🔯  𝗗𝗘𝗣𝗟𝗢𝗬 ✡☯🔯
 
 
 ## [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/2005-SACHITH-MAX/CYBER-PANDA-MD-V1.git)
