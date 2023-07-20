@@ -26,7 +26,7 @@
 
   ### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
  
-## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@shashikabot/Queen-Nethu-MD-QR-Code)
+## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@shashikabot/Queen-Nethu-MD-QR-Code?v=1#index.js)
 
 
 
